@@ -15,7 +15,7 @@
 
 <br>
 <div >
-  <p align-itens:center text-align:center>  Eu sou o Juan, um entusiasta da tecnologia e estudante de Sistemas da Informação. Tenho formação técnica em Informática para Internet pela ETEC e estou sempre em busca de novos desafios no mundo do desenvolvimento. Sigo explorando e aprendendo a cada dia, misturando código com minhas paixões 🎸🎮</p>
+  <p align-itens:center text-align:center>  Eu sou o Juan, estudante de Análise e Desenvolvimento de Sistemas pela Unoeste. Tenho formação técnica em Informática para Internet pela ETEC e tenho certa experiência na área de E-commerce, atualmente estou estagiando na empresa Implementa E-commerce, no cargo de Gerente de Projetos. Sigo explorando e aprendendo a cada dia, misturando código com minhas paixões 🎸🎮</p>
 </div>
 
 <br>
